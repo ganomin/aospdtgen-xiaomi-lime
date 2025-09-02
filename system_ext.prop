@@ -1,0 +1,5 @@
+persist.vendor.dpm.feature=11
+ro.product.marketname=Redmi 9T
+ro.product.system_ext.marketname=Redmi 9T
+ro.telephony.sim_slots.count=1
+telephony.active_modems.max_count=2
